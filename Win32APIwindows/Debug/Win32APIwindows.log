@@ -1,0 +1,5 @@
+﻿  Win32APIwindows.c
+c:\users\pavel\onedrive\desktop\win32apiwindows\win32apiwindows\win32apiwindows.c(150): warning C4101: 'wmEvent': unreferenced local variable
+c:\users\pavel\onedrive\desktop\win32apiwindows\win32apiwindows\win32apiwindows.c(170): warning C4101: 'buffer': unreferenced local variable
+c:\users\pavel\onedrive\desktop\win32apiwindows\win32apiwindows\win32apiwindows.c(150): warning C4101: 'wmId': unreferenced local variable
+  Win32APIwindows.vcxproj -> C:\Users\pavel\OneDrive\Desktop\Win32APIwindows\Debug\Win32APIwindows.exe
